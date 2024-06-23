@@ -1,2 +1,2 @@
 # cursoJS
-En este proyecto lo que se desarrollo fue la parte de back end de un juego (adivina tu numero) 
+Aqui podemso observar algunos programas pequeños que se fueron haciendo durante dos cursos de JS.
